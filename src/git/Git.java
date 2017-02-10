@@ -7,15 +7,18 @@ package git;
 
 /**
  *
- * @author ad091192
+ * TP Agile Lycia Mameri
+ * INF2015
  */
 public class Git {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
-        // Version 3.0
+        // test conflit
+        System.out.println("CECI DEVRAIT GENERER UN CONFLIT");
+        System.out.println("!!!");
+        int a =1, b=2;
+        int c=a+b;
+        System.out.println("1+2= "+c);
     }
     
 }
