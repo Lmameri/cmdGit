@@ -13,12 +13,9 @@ package git;
 public class Git {
 
     public static void main(String[] args) {
-
-        // test conflit
         System.out.println("Commit avant passage à Maven");
         System.out.println("!!!");
         
-
     }
     
 }
