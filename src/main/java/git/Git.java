@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package git;
+package main.java.git;
 
 /**
  *
@@ -13,7 +13,7 @@ package git;
 public class Git {
 
     public static void main(String[] args) {
-        System.out.println("Commit avant passage à Maven");
+        System.out.println("Commit après passage à Maven");
         System.out.println("!!!");
         
     }
