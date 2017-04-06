@@ -15,11 +15,9 @@ public class Git {
     public static void main(String[] args) {
 
         // test conflit
-        System.out.println("CECI DEVRAIT GENERER UN CONFLIT");
+        System.out.println("Commit avant passage à Maven");
         System.out.println("!!!");
-        int a =1, b=2;
-        int c=a+b;
-        System.out.println("1+2= "+c);
+        
 
     }
     
