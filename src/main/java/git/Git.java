@@ -5,6 +5,8 @@
  */
 package git;
 
+import net.sf.json.JSONObject;
+
 /**
  *
  * TP Agile Lycia Mameri
@@ -13,7 +15,7 @@ package git;
 public class Git {
 
     public static void main(String[] args) {
-        
+        JSONObject test=null;
         System.out.println("Commit après passage à Maven");
         System.out.println("!!!");
         
